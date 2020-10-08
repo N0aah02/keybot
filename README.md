@@ -16,7 +16,7 @@ Use the autoklicker for gaming, spamming, or whatever you want!
 Are you a fan of "ToggleSprint", "ToggleSneak" etc. in games? Nice, because keybot has a feature toggle keys!
 
 # Installation (easy)
-Go to the **releases** page, select a version, and click on download **exe**!
+Go to the [**releases**](https://github.com/nsde/keybot/releases) page, select a version, and click on download **exe**!
 
 # Installation (advanced)
 - `pip install pynput`
