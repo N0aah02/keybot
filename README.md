@@ -2,11 +2,15 @@
 Control keyboard and key presses!
 
 # Features
-## Record key presses
-Record your keys.
+## Record and play
+Record your keyboard and/or your mouse. If you want to, you can export the record to a file to send it to your friends!
+After that, you can play the recorded keys. You can select the speed and even randomize the delay between the key presses.
 
-## Play key presses
-Play the recorded keys.
+## Modify keys
+Change the behaviour of your keys: block keys, change keys etc. 
 
-## Modify key presses
-Change the behaviour of your keys.
+## Autoklicker
+Use the autoklicker for gaming, spamming, or whatever you want!
+
+## Toggle press
+Are you a fan of "ToggleSprint", "ToggleSneak" etc. in games? Nice, because keybot has a feature toggle keys!
